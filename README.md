@@ -6,7 +6,7 @@ The app is deployed on Streamlit Community Cloud and the repository includes the
 
 ## Live App
 
-The project is live on Streamlit Community Cloud. [text](https://github.com/Vedang9325/AI_Music_analyse)
+The project is live on Streamlit Community Cloud. https://aimusicanalyse.streamlit.app/
 
 ## Features
 
@@ -102,25 +102,6 @@ The registry workflow stores:
 - Error handling for failed track analysis
 - Consistent feature count between training and inference
 - Deployment package support for Linux audio dependencies
-
----
-
-# 📸 Screenshots
-
-Add screenshots here:
-
-```text
-assets/screenshots/
-```
-
-Suggested screenshots:
-
-- Main Streamlit dashboard
-- Multi-file upload section
-- Batch summary table
-- Timeline confidence chart
-- Track metric cards
-- CSV download workflow
 
 ---
 
