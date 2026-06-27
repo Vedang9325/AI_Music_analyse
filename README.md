@@ -6,7 +6,7 @@ The app is deployed on Streamlit Community Cloud and the repository includes the
 
 ## Live App
 
-The project is live on Streamlit Community Cloud. Add the public app URL here once you want it shown in the repository.
+The project is live on Streamlit Community Cloud. https://aimusicanalyse.streamlit.app/
 
 ## Features
 
