@@ -6,7 +6,7 @@ The app is deployed on Streamlit Community Cloud and the repository includes the
 
 ## Live App
 
-The project is live on Streamlit Community Cloud. [text](https://sonicvibe-studio.streamlit.app)
+The project is live on Streamlit Community Cloud. https://sonicvibe-studio.streamlit.app
 
 ## Features
 
