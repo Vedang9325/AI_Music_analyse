@@ -143,7 +143,7 @@ The registry workflow stores:
 # 🧪 Local Setup
 
 ```bash
-git clone https://github.com/Vedang9325/AI_Music_analyse
+git clone https://github.com/Vedang9325/SonicVibe-Studio
 
 cd AI_Music_analyse
 
