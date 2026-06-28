@@ -145,7 +145,7 @@ The registry workflow stores:
 ```bash
 git clone https://github.com/Vedang9325/SonicVibe-Studio
 
-cd AI_Music_analyse
+cd SonicVibe-Studio
 
 python -m venv .venv
 
