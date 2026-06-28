@@ -6,7 +6,7 @@ The app is deployed on Streamlit Community Cloud and the repository includes the
 
 ## Live App
 
-The project is live on Streamlit Community Cloud. https://aimusicanalyse.streamlit.app/
+The project is live on Streamlit Community Cloud. [https://aimusicanalyse.streamlit.app/](https://sonicvibe-studio.streamlit.app/)
 
 ## Features
 
